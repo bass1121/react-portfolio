@@ -1,5 +1,5 @@
 import React from "react";
-import pic from "../../../static/assets/images/bio/COCO.jpg"
+import pic from "../../../static/assets/images/bio/closeup.jpg"
 export default function() {
     return (
         <div className="content-page-wrapper">

@@ -1,5 +1,5 @@
 import React from "react";
-import contactPic from "../../../static/assets/images/bio/business.png";
+import contactPic from "../../../static/assets/images/bio/IMG-5118.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function() {
